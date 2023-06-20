@@ -9,7 +9,7 @@ tecnologias como: Html, Css, Javascript e React. Estou buscando me aprimorar nes
 ### PROJETO
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iViniciusAndrade&repo=Tik-tok-Project&theme=dark
-)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/iViniciusAndrade/Tik-tok-Project))
+)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/iViniciusAndrade/Tik-tok-Project)](https://github.com/iViniciusAndrade/Tik-tok-Project))
 
 ### LINGUAGENS UTILIZADAS
 
