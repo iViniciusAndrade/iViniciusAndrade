@@ -15,5 +15,6 @@ tecnologias como: Html, Css, Javascript e React. Estou buscando me aprimorar nes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iViniciusAndrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contato:
-<img src='https://img.shields.ib/badge/LinkedIn-0077B5?style-for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/devviniciusandrade/)
+### Contatos:
+Linkedin: https://www.linkedin.com/in/devviniciusandrade/
+E-mail: viniciusandrade.faire@gmail.com
