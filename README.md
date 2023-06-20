@@ -4,13 +4,16 @@
 tecnologias como: Html, Css, Javascript e React. Estou buscando me aprimorar neste vasto mundo da programação e empolgado para criar ainda mais projetos!
 
 ### Detalhes:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iViniciusAndradeshow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iViniciusAndrade&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Em Destaque:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iViniciusAndrade&repo=Tik-tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### PROJETO
 
-### Linguagens Utilizadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iViniciusAndradelayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iViniciusAndrade&repo=Tik-tok-Project&theme=dark
+)](https://github.com/anuraghazra/github-readme-stats)
+
+### LINGUAGENS UTILIZADAS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iViniciusAndrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato:
 <img src='https://img.shields.ib/badge/LinkedIn-0077B5?style-for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/devviniciusandrade/)
