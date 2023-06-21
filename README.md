@@ -1,6 +1,6 @@
 ## Olá Mundo! 👋
 
-Me chamo Vinicius Andrade 
+Me chamo Vinicius Andrade de Paula
 ##
 <p>🎓 Formado em Análise e Desenvolvimento de Sistemas.<p/>
 <p>🌱 Dev Front-end </p>
