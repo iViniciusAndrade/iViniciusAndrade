@@ -23,11 +23,13 @@ Me chamo Vinicius Andrade de Paula
 
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IVinicius&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndrade&show_icons=true&theme=transparent&hide_border=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusandrade&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iviniciusandrade&show_icons=true&theme=transparent&hide_border=true)
   
   
 </div>  
+
+##
 
 ##
 
