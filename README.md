@@ -7,13 +7,6 @@ Me chamo Vinicius Andrade
 <p>📓 Sempre Estudando e melhorando minhas práticas:</p>
 <br>
 <br>
-<div align-items:center>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> 
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" color="wite" />
-          
-</div>
 
 ##
 
