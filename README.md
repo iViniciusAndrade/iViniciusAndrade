@@ -35,7 +35,7 @@ Me chamo Vinicius Andrade de Paula
 
 <div>
 <a href = "mailto:viniciusandrade.faire@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/andresa-reis-fernandes](https://www.linkedin.com/in/devviniciusandrade/)](https://www.linkedin.com/in/devviniciusandrade/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/devviniciusandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ![Snake animation](https://github.com/Andiereis/Andiereis/blob/output/github-contribution-grid-snake.svg)
