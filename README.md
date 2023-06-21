@@ -1,20 +1,48 @@
-### Olá, Seja Bem vindo! 👋
+## Olá Mundo! 👋
 
-###### Sou o Vinicius, estudante e desenvolvedor Front End, amo o mundo da tecnologia e programação e por aqui deixarei os meus projetos, atualmente trabalho com
-tecnologias como: Html, Css, Javascript e React. Estou buscando me aprimorar neste vasto mundo da programação e empolgado para criar ainda mais projetos!
+Me chamo Vinicius Andrade 
+##
+<p>🎓 Formado em Análise e Desenvolvimento de Sistemas.<p/>
+<p>🌱 Dev Front-end </p>
+<p>📓 Sempre Estudando e melhorando minhas práticas:</p>
+<br>
+<br>
+<div align-items:center>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> 
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" color="wite" />
+          
+</div>
 
-### Detalhes:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iViniciusAndrade&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+##
 
-### PROJETO
+🖥️ Tecnologias e Ferramentas:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iViniciusAndrade&repo=Tik-tok-Project&theme=dark
-)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/iViniciusAndrade/Tik-tok-Project)](https://github.com/iViniciusAndrade/Tik-tok-Project))
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
-### LINGUAGENS UTILIZADAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iViniciusAndrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+##
 
-### Contatos:
-Linkedin: https://www.linkedin.com/in/devviniciusandrade/
-E-mail: viniciusandrade.faire@gmail.com
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiereis&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iViniciusAndrade&show_icons=true&theme=transparent&hide_border=true)
+  
+  
+</div>  
+
+##
+
+📫 Contatos:
+
+<div>
+<a href = "mailto:viniciusandrade.faire@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/andresa-reis-fernandes](https://www.linkedin.com/in/devviniciusandrade/)](https://www.linkedin.com/in/devviniciusandrade/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+![Snake animation](https://github.com/Andiereis/Andiereis/blob/output/github-contribution-grid-snake.svg)
