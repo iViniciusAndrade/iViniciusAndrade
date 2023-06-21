@@ -3,8 +3,8 @@
 Me chamo Vinicius Andrade de Paula
 ##
 <p>🎓 Formado em Análise e Desenvolvimento de Sistemas.<p/>
-<p>🌱 Dev Front-end </p>
-<p>📓 Sempre Estudando e melhorando minhas práticas:</p>
+<p>🌱 Dev Front-end. </p>
+<p>📓 Sempre Estudando e melhorando minhas práticas.</p>
 <br>
 <br>
 
